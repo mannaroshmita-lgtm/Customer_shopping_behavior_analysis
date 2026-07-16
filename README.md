@@ -1,5 +1,6 @@
 # 🛍️ Customer Shopping Behavior Analysis | End-to-End Data Analytics Project
 
+![Power BI Dashboard](dashboard_screenshots/Screenshot%202026-07-14%20205213.png)
 
 > **An End-to-End Data Analytics Project using Python, MySQL, and Power BI to analyze customer shopping behavior and generate actionable business insights.**
 
