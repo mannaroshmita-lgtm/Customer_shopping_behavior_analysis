@@ -98,7 +98,7 @@ Customer-Shopping-Behavior-Analysis
 │   └── cleaned_data.csv
 │
 ├── notebooks
-│   └── customer_analysis.ipynb
+│   └── customer_behavior.ipynb
 │
 ├── sql
 │   └── business_queries.sql
