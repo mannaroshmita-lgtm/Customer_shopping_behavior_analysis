@@ -172,10 +172,9 @@ An interactive Power BI dashboard was developed to visualize business performanc
 
 ## 📷 Dashboard Preview
 
-> Replace **dashboard.png** with your uploaded dashboard screenshot.
-
-```markdown
-![Dashboard](dashboard_screenshots/dashboard.png)
+<p align="center">
+  <img src="dashboard_screenshots/Dashboard.png" alt="Power BI Dashboard" width="1000">
+</p>
 ```
 
 ---
@@ -309,6 +308,4 @@ Business Insights & Recommendations
 
 🐙 **GitHub:** Your GitHub Profile
 
----
 
-## ⭐ If you found this project interesting, consider giving it a Star!
